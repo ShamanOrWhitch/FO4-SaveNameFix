@@ -1,0 +1,17 @@
+Куда класть
+
+1. Открой папку, где лежит Fallout4.exe. Это не Документы.
+2. Скопируй папку Data из этого архива в ту папку.
+   Должен появиться файл:
+   Data\F4SE\Plugins\FO4SaveNameFix.dll
+3. Запускай игру двойным щелчком по f4se_loader.exe
+   Не через лаунчер Bethesda и не через батник.
+
+Сейвы сами лежат в Документы\My Games\Fallout4\Saves.
+Плагин их переименует, когда игра стартует через F4SE.
+
+Было:  Exitsave0_00000000SM4A4168436F7265_Commonwealth_....f4se
+Стало: Exitsave0.f4se
+
+Лог, если хочешь проверить:
+Документы\My Games\Fallout4\F4SE\FO4SaveNameFix.log
